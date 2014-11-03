@@ -30,6 +30,7 @@ outline and ideas before i build the thing
 * https://twitter.com/mkoby/status/529384100579135488
 * https://twitter.com/aJimHolmes/status/529382174265335808
 * https://twitter.com/dburton/status/529382047467327488
+* https://twitter.com/kevindente/status/529391919789375489
 
 ## Integrated Tools
 
@@ -103,6 +104,9 @@ outline and ideas before i build the thing
 * Refactoring? That's language dependent, not IDE dependent
 * In-editor error messages (doable w/ plugins)
 * Visual debuggers in IDE - but those are plentiful out of IDE
+* https://twitter.com/jezell/status/529390125470326784
 * https://twitter.com/jezenthomas/status/529382013359640576
 * https://twitter.com/benwmaddox/status/529385117974659072 
-
+* https://twitter.com/KaiKoch/status/529386441689022464
+* https://twitter.com/KaiKoch/status/529389259695083520
+* https://twitter.com/hertling/status/529391383518670848
