@@ -1,0 +1,28 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": false,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "boss": true,
+  "eqnull": true,
+  "browser": true,
+  "strict": false,
+  "globalstrict": true,
+  "globals": {
+    "jQuery": true,
+    "Backbone": true,
+    "Estimator": true,
+    "Marionette": true,
+    "require": true,
+    "module": true,
+    "console": true,
+    "global": true,
+    "_": true,
+    "$": true
+  }
+}
+
