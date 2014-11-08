@@ -5,11 +5,6 @@ outline and ideas before i build the thing
 ## Your Favorite IDE
 
 * provides value in the right circumstances
-* but is big, bloated, clunky
-* not necessary all the time
-
-## Why IDE, then?
-
 * integrated tools
 * pre-defined workflow
 * up and running faster
@@ -21,6 +16,9 @@ outline and ideas before i build the thing
 * https://twitter.com/KaiKoch/status/529385016942682112
 
 ## Why Not IDE?
+
+* but is big, bloated, clunky
+* not necessary all the time
 
 * light weight command line
 * flexibility
