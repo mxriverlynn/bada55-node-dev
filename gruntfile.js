@@ -6,7 +6,7 @@ module.exports = function(grunt){
     //    options: {
     //      jshintrc: ".jshintrc"
     //    },
-    //    src: ["code/routes/**/*.js", "code/app.js"]
+    //    src: ["code/routes/**/*.js", "code/app.js", "code/lib/**/*.js"]
     //  },
     //  browser: {
     //    options: {
@@ -21,11 +21,11 @@ module.exports = function(grunt){
     //watch: {
     //  app: {
     //    files: ["code/app.js", "code/lib/**/*.js", "code/routes/**/*.js"],
-    //    tasks: ["jshint:app", "jasmine_node"]
+    //    tasks: ["jshint:app"]
     //  },
     //  browser: {
     //    files: "code/public/app/**/*.js",
-    //    tasks: ["jshint:browser"],
+    //    //tasks: ["jshint:browser"],
     //    options: {
     //      livereload: true
     //    }

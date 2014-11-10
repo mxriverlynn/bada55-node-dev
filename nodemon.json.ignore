@@ -1,5 +1,5 @@
 {
   "verbose": true,
   "watch": ["code/app.js", "code/routes/**/*.js", "code/lib/**/*.js"],
-  "ignore": ["code/public/**/*.*", "*.swp"]
+  "ignore": ["code/public/**/*.*"]
 }
