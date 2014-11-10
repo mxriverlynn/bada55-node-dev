@@ -13,16 +13,11 @@
   "strict": false,
   "globalstrict": true,
   "globals": {
-    "jQuery": true,
-    "Backbone": true,
-    "Estimator": true,
-    "Marionette": true,
+    "console": true,
+    "debugger": true,
     "require": true,
     "module": true,
-    "console": true,
-    "global": true,
-    "_": true,
-    "$": true
+    "__dirname": true
   }
 }
 

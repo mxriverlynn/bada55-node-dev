@@ -1,9 +1,6 @@
-var Maths = {
-
+module.exports = {
   add: function(a, b){
+    debugger;
     return a + b;
   }
-
 };
-
-module.exports = Maths;

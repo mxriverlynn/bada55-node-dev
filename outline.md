@@ -43,9 +43,8 @@ outline and ideas before i build the thing
 
 ## The No-Brainers
 
-* Syntax Highlighting
 * Project / File System Explorer
-* Finding files in project
+* Syntax Highlighting
 
 ## App Restart w/ Nodemon
 
@@ -59,24 +58,18 @@ outline and ideas before i build the thing
 * myriad of plugins
 * grunt-contrib-watch for file system watching
 
+## Livereload from Grunt
+
+* grunt-contrib-watch
+* Reload page when browser js changes
+* Reload page when css changes
+* reload page when jade template changes
+
 ## Linting w/ JSHint
 
 * grunt-contrib-jshint
 * run jshint on file changes for server code
 * run jshint on file changes for client code
-
-## Preprocessing w/ Browserify
-
-* grunt-browserify
-* build front-end package on file change
-* grunt-contrib-concat for css
-
-## Livereload
-
-* grunt-contrib-watch
-* reload page when jade template changes
-* Reload page when browserify package changes
-* Reload page when css changes
 
 ## Unit Testing Node w/ Jasmine
 
