@@ -1,2 +1,1 @@
-console.log("this is auto-reload");
-console.log("live reload it!");
+console.log("this is some code");
