@@ -19,6 +19,9 @@ module.exports = function(grunt){
     //},
 
     //watch: {
+    //  options: {
+    //    spawn: false,
+    //  },
     //  app: {
     //    files: ["code/app.js", "code/lib/**/*.js", "code/routes/**/*.js"],
     //    tasks: ["jshint:app"]
