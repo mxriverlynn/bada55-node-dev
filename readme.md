@@ -21,12 +21,21 @@ You'll see how a text editor combined with NodeJS, Nodemon, Grunt, and a handful
 command line tools can easily replace that stodgy, cumbersome IDE with something 
 infinitely more flexible and customizable.
 
-## Watch The Individual Screencasts
+## The Individual Screencasts
 
 The content of this presentation is largely available and inspired by the series of tooling videos
 that I created for my WatchMeCode screencast series. If you'd like to see more detail about any
 individual tool that I show in this presentation, please head over to [WatchMeCode.net](http://watchmecode.net) and check
 out the videos.
+
+* [NodeJS WebDev Workflow](https://sub.watchmecode.net/nodejs-webdev-workflow/)
+* [Reload w/ grunt-contrib-watch](https://sub.watchmecode.net/grunt-contrib-watch/)
+* [JSHint from Grunt](https://sub.watchmecode.net/jshint/)
+* [Testing w/ Jasmine (node & browser)](https://sub.watchmecode.net/a-screencast-introduction-to-jasminebdd-and-testing-javascript/)
+* [JavaScript Debuggers (node & browser)](https://sub.watchmecode.net/debugging-javascript/)
+
+I also have a special offer for Nodevember attendees. Head over to [WatchMeCode.net/nodevember](http://watchmecode.net/nodevember)
+and check out a few free episodes! But hurry, these episodes are only free until November 30th!
 
 ## Legal Mumbo? Yes. Jumbo? No.
 
